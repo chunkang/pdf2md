@@ -1,0 +1,9 @@
+project:
+  name: pdf2md
+  description: ''
+  type: ''
+  locale: '{{LOCALE}}'
+  created_at: '2026-01-22T00:05:15.566738Z'
+  initialized: 'true'
+github:
+  profile_name: ''
